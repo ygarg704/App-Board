@@ -37,5 +37,5 @@ Dataset [Link](https://www.kaggle.com/cmqub19/763k-ios-app-info)
 1. Clone the GitHub repo on your local machine. 
 2. Navigate to the project folder in the terminal and run `pip install -r requirements.txt` to install dependencies. 
 3. Open the workspace in a code editor of choice and run the `app.py` file. 
-4. Navigate to `http://127.0.0.1:8050/` (or your default location) in your browser to access a local version of the dashboard or navigate to https://appboard.herokuapp.com/ to access a live version.
+4. Navigate to `http://127.0.0.1:8050/` (or your default location) in your browser to access a local version of the dashboard.
 
